@@ -1,3 +1,4 @@
+package graficoBO;
 
 import graficoDAO.gravarGrafico;
 import graficoDTO.grafInf;
