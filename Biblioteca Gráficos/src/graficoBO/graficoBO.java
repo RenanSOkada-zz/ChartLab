@@ -17,8 +17,8 @@ public class graficoBO implements IGraficoPersist{
 	}
 	
 	public void gravarGrafLinha(grafInf gi) {
-		gravarGrafico g = new gravarGrafico();
-		g.gravarGrafLinha(gi);
+		gravarGrafico g1 = new gravarGrafico();
+		g1.gravarGrafLinha(gi);
 	}
 
 }
